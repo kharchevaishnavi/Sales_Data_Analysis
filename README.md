@@ -29,7 +29,7 @@ The dataset contains sales records with columns such as:
 6. Data visualization
 7. Conclusion & insights
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
